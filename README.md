@@ -1,3 +1,7 @@
 # Classification Project
 
-Answers the question: Why are our customer churning?
+### Analyzing Customer Churn
+We created a notebook that answers the question: Why are our customers churning?
+
+Here is a link to our google slides presentation:
+
