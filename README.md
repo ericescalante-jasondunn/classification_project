@@ -4,6 +4,6 @@
 We created a notebook that answers the question: Why are our customers churning?
 
 Here is a link to our google slides presentation:
-https://docs.google.com/presentation/d/1iQE7HGKtwnGpP51KObBXD4QwtRy86X9c3YhV9mSDxPI/edit?usp=sharing
+https://docs.google.com/presentation/d/18lfvi3eKEn703dGRfhzK3N5l6Eq_BmUP6iLPpR1dOtk/edit?usp=sharing
 
 Please see our notbook with the Project_Master.ipynb file
